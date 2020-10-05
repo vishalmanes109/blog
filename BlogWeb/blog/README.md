@@ -1,9 +1,6 @@
-# READit Blog
-#### Personalized Blog 
+# READit Blog ### Personalized Blog 
 
-
-<img src='./images/bloghome.png' >
-
+<img src='../../images/bloghome.png' >
 
 ## Introduction:
 * A responsive, personalized blog which segregates the post by categories.
@@ -18,8 +15,7 @@
 * MySql
 * Xampp
 
-#### Demo:
-
-<img src= './images/Cream%20and%20Black%20Playful%20Organic%20Business%20Marketing%20Presentation.gif'>
+### Demo:
+<img src= '../../images/Cream%20and%20Black%20Playful%20Organic%20Business%20Marketing%20Presentation.gif'>
 
 
