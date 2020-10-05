@@ -2,7 +2,6 @@
 
 ### Personalized Blog 
 
-<br>
 ## Technology Stack:
 * HTML5
 * CSS3
