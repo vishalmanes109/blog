@@ -1,7 +1,7 @@
 # blog
 
 <!-- Page Header -->
-  <header class="masthead" style="background-image: url('img/home2-bg.jpg')">
+  <header class="masthead" style="background-image: url('images/bloghome.png')">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
