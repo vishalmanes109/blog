@@ -1,4 +1,5 @@
-# READit Blog ### Personalized Blog 
+# READit Blog
+### Personalized Blog 
 
 <img src='../../images/bloghome.png' >
 
