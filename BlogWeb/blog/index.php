@@ -9,7 +9,7 @@ include"database/db.php";
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="vishal mane">
-    <title>--UN--known</title>
+    <title>READiT2</title>
 
 
     <!-- Bootstrap core CSS -->
